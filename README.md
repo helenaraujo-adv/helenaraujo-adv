@@ -10,7 +10,7 @@ Sou uma profissional com mais de 15 anos de carreira, unindo a segurança do Dir
 
 - **LÉIA (Legal Intelligence for Apprenticeship):** Idealizei e criei a primeira IA brasileira focada na interpretação da Lei da Aprendizagem Profissional.
 - **@YakamiTech:** Co-founder e CLO da primeira *Deep Tech* da Amazônia, focada em solucionar o apagão logístico regional via rastreamento fluvial.
-- **@Trilha-do-Aprendiz:** Fundadora desta EdTech/LegalTech que utiliza gamificação para gestão de conformidade legal.
+- **Trilha do Aprendiz:** Fundadora desta EdTech/LegalTech que utiliza gamificação para gestão de conformidade legal.
 - **Ecossistema:** Atuo como Embaixadora do **BNDES Garagem** no Amazonas, fomentando novos negócios na região.
 
 ## 🛠️ Expertise & Interesses Tech
@@ -30,11 +30,11 @@ Sou uma profissional com mais de 15 anos de carreira, unindo a segurança do Dir
 
 ## 📊 Estatísticas e Conexões
 
-![Cards do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Cards do GitHub](https://github-readme-stats.vercel.app/api?username=helenaraujo-adv&show_icons=true&theme=radical)
 
 - 🌍 Baseada em: **Manaus, Amazonas (Amazon Rainforest) 🌿**
 - 💬 Vamos conversar sobre: **Startups, IA Jurídica, ESG e Inovação na Amazônia.**
-- 📫 Como me encontrar: [LinkedIn](SEU_LINK_AQUI) | [E-mail](mailto:seu-email@exemplo.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/helenaraujo-adv/)
 
 ---
 *“Inovação sem segurança jurídica é risco; Direito sem tecnologia é atraso.”*

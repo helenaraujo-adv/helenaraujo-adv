@@ -6,7 +6,7 @@ Sou uma profissional com mais de 15 anos de carreira, unindo a segurança do Dir
 
 ---
 
-## 🚀 Nestou trabalhando agora
+## 🚀 estou trabalhando agora
 
 - **LÉIA (Legal Intelligence for Apprenticeship):** Idealizei e criei a primeira IA brasileira focada na interpretação da Lei da Aprendizagem Profissional.
 - **@YakamiTech:** Co-founder e CLO da primeira *Deep Tech* da Amazônia, focada em solucionar o apagão logístico regional via rastreamento fluvial.
